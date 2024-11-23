@@ -1,11 +1,11 @@
 ##React Career Hub 
 
 **Description:
-- [Using React router develop this project with responsive design 
--Load the data of jobs from JSON API
--users can see the jobs details clicked on the button 
--can apply for the job in one time 
--after succes application and  when failed display toaster
+- Using React router develop this project with responsive design 
+- Load the data of jobs from JSON API
+- users can see the jobs details clicked on the button 
+- can apply for the job in one time 
+- after succes application and  when failed display toaster
 - can enable dark or light theme
 
 
