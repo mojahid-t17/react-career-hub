@@ -1,7 +1,7 @@
 ##React Career Hub 
 
 **Description:
--Using React router develop this project with responsive design 
+-[Using React router develop this project with responsive design ]
 -Load the data of jobs from JSON API
 -users can see the jobs details clicked on the button 
 -can apply for the job in one time 
